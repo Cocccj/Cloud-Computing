@@ -12,7 +12,7 @@ Built a social network for movies, implemented user authentication and profile m
 
 ### OLAP with Cloud Data Warehousing
 
-Designed and implemented cloud data warehouse to store sales transaction records with three databases: Hive, Impala, Redshift. Used caching techniques and partitioned the data, and also optimized the queries to reduce processing time.
+Designed and implemented cloud data warehouse to store sales transaction records with three tools: Hive, Impala, Redshift. Used caching techniques and partitioned the data, and also optimized the queries to reduce processing time.
 
 
 The professor does not allow us to share the code publicly, please contact me for further discussion.
